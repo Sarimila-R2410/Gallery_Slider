@@ -2,7 +2,7 @@
 
 ## Deployed Link - https://gallery-slider-4x3a.onrender.com/
 
-A modern, responsive image gallery with a smooth slider. This project showcases clean UI design, smooth transitions, and an elegant image viewing experience.
+A modern, responsive image gallery with a smooth slider. This project showcases clean UI design, integrated with a public API to fetch image data, smooth transitions, and an elegant image viewing experience.
 
 ## Features
 
