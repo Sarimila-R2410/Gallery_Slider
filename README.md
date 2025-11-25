@@ -19,6 +19,6 @@ A modern, responsive image gallery with a smooth slider. This project showcases 
 - Language: TypeScript  
 - Styling: Tailwind CSS  
 - Components: Radix UI, Lucide Icons  
-- Slider Library: Embla Carousel  
+
 
 
